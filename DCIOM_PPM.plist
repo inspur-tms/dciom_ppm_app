@@ -25,13 +25,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.inspur.obd.smp</string>
+                    <string>com.inspur.obd.dciom.ppm</string>
                     <key>bundle-version</key>
                     <string>100</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>SMP</string>
+                    <string>DCIOM_PPM</string>
                 </dict>
             </dict>
         </array>
