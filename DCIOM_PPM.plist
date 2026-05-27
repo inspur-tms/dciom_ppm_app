@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/inspur-tms/cmi_smp_app/releases/download/1.0.93/__UNI__3B8DFDC_0112151353.ipa</string>
+                        <string>https://github.com/inspur-tms/dciom_ppm_app/releases/download/ios20260527/__UNI__3B8DFDC_0526163732.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>https://inspur-tms.github.io/cmi_smp_app/logo.png</string>
+                        <string>https://inspur-tms.github.io/dciom_ppm_app/logo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
